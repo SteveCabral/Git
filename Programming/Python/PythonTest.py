@@ -9,3 +9,6 @@ MyVariable = MyVariable.upper()
 MyVariable = MyVariable.title()
 MyVariable = MyVariable.upper()
 
+#some new code added
+
+
