@@ -4,6 +4,7 @@ Tab = '\t' #tab character
 
 ColorList = ['Purple', 'Brown', 'Orange', 'Yellow', 'Red', 'Black', 'Green']
 
+
 print("Print out " + str(len(ColorList)) + " colors from ColorList list:")
 for Color in ColorList:
     print(Tab + Color)
