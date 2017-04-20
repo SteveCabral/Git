@@ -18,10 +18,19 @@ for car in cars:
             print(car + " != " + MyCar)
 
 
+#Checking Whether a Value Is or Not in a List
 WifeCar = 'honda'
 
 if WifeCar in cars:
     print(WifeCar + " is in " + cars)
-else:
+
+if WifeCar not in cars:
     print(WifeCar + " is not in cars list")
+
+
+#boolean expressions - variables testing
+iHateBadFood = True
+
+if iHateBadFood:
+    print("I hate bad food")
 
